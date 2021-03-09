@@ -1,0 +1,43 @@
+body {
+  font-family: 'Ribeye Marrow', cursive;
+  font-size: 18px;
+  color:black;
+  background-color: #E5FFFF;
+
+}
+#titulo {
+  background-image: linear-gradient(to bottom, #5996ff, #8aa7ff, #adbafe, #cacdfe, #e3e2fe, #e3e2fe, #e3e2fe, #e3e2fe, #cacdfe, #adbafe, #8aa7ff, #5996ff);
+}		
+.espacios{
+    padding: 60px;
+}
+.espacios_borde{
+    padding: 5px;
+}
+.azul-left {
+  background: url(../imagenes/azul.png) left top no-repeat;
+  background-size: 1200px;
+  width: 410px;
+  height: 800px;
+  color: black;
+}
+.verde-right {
+  background: url(../imagenes/logo.png) left top no-repeat;
+  background-size: 1200px;
+  width: 1800px;
+  height:800px;
+  color: pink;
+}
+div.centrar {
+  width: 33.33%;
+  display: flex;
+  justify-content: center
+}
+div.borde{
+  border: 1px solid;
+}
+h4.barra {
+  background-color: lightblue;
+  text-align: center
+}
+
